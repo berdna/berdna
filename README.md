@@ -1,4 +1,4 @@
-<h1>Hello</h1>
+<h1 color="blue">Hello</h1>
 
 - 👋 Hi, I’m Andre!
 - 👀 I’m interested in ...
