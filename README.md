@@ -1,10 +1,14 @@
-<div background-color="blue"><h1 color="fff">Hello</h1></div>
+<h1>Hello.</h1>
 
 - 👋 Hi, I’m Andre!
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+
+Favorite technologies: Javascript | Typescript | React | Go | Java | Python 
+
+Other skills : C/C++ , Swift
 
 <!---
 csabarnes/csabarnes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
