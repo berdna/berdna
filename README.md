@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Andre</h1>
+<h1 align="center">Hello.</h1>
 <h3 align="center">A passionate software engineer</h3>
 
 - 👨‍💻 All of my projects are available at [berdna.com](berdna.com)
