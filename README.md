@@ -5,7 +5,7 @@
 
 - 📝 I regularly write articles on [berdna.com/blog](berdna.com/blog)
 
-- 📫 How to reach me **berdna@gmail.com**
+- 📫 How to reach me **berdnacs@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
